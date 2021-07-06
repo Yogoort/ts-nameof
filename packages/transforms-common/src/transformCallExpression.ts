@@ -25,6 +25,9 @@ function handleNameof(callExpr: NameofCallExpression) {
             return callExpr.arguments[0];
         else if (callExpr.typeArguments.length === 1)
             return callExpr.typeArguments[0];
+
+        return;
+        //suppress error cause of https://github.com/dsherret/ts-nameof/issues/116
         return throwError(`Call expression must have one argument or type argument: ${printCallExpression(callExpr)}`);
     }
 }
