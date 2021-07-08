@@ -1,5 +1,5 @@
 {
-  "name": "@ts-nameof/transforms-babel",
+  "name": "@ts-nameof/transforms-babel-yogoort",
   "version": "4.2.1",
   "description": "ts-nameof - Babel transforms for ts-nameof packages.",
   "main": "./dist/index.js",

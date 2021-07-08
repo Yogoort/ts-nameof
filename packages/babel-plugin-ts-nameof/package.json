@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-ts-nameof",
+  "name": "babel-plugin-ts-nameof-yogoort",
   "version": "4.2.1",
   "description": "nameof in TypeScript for babel.",
   "main": "dist/index.js",
@@ -22,7 +22,7 @@
   "author": "David Sherret",
   "license": "MIT",
   "dependencies": {
-    "@ts-nameof/transforms-babel": "^4.2.1"
+    "@ts-nameof/transforms-babel-yogoort": "^4.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",

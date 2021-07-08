@@ -251,7 +251,7 @@ export function parse(t: typeof babelTypes, path: NodePath, options: ParseOption
             return throwError("Unexpected scenario where a nameof.interpolate function did not have a single argument.");
 
         function hasAncestorNameofFull() {
-            let parentPath: NodePath<Node> | undefined = path.parentPath;
+            let parentPath: NodePath<Node> | undefined | null = path.parentPath;
             while (parentPath != null) {
                 if (isNameof(parentPath.node) && parsePropertyName(parentPath.node) === "full")
                     return true;

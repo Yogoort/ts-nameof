@@ -1,7 +1,7 @@
 /// @ts-check
 /// <reference path="references.d.ts" />
 import { createMacro, MacroError } from "babel-plugin-macros";
-import { transformNode } from "@ts-nameof/transforms-babel";
+import { transformNode } from "@ts-nameof/transforms-babel-yogoort";
 
 export default createMacro(nameofMacro);
 

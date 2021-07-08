@@ -1,1 +1,1 @@
-export { plugin as default } from "@ts-nameof/transforms-babel";
+export { plugin as default } from "@ts-nameof/transforms-babel-yogoort";

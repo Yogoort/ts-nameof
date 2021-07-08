@@ -30,7 +30,7 @@
     "babel-plugin-macros": "^2.8.0"
   },
   "dependencies": {
-    "@ts-nameof/transforms-babel": "^4.2.1"
+    "@ts-nameof/transforms-babel-yogoort": "^4.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",

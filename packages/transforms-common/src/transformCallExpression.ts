@@ -18,9 +18,7 @@ export function transformCallExpression(callExpr: NameofCallExpression) {
 }
 
 function handleNameof(callExpr: NameofCallExpression) {
-    return parseNameofExpression(getExpression());
-
-    function getExpression() {
+    var getExpression = function () {
         if (callExpr.arguments.length === 1)
             return callExpr.arguments[0];
         else if (callExpr.typeArguments.length === 1)
@@ -30,6 +28,8 @@ function handleNameof(callExpr: NameofCallExpression) {
         //suppress error cause of https://github.com/dsherret/ts-nameof/issues/116
         return throwError(`Call expression must have one argument or type argument: ${printCallExpression(callExpr)}`);
     }
+
+    return parseNameofExpression(getExpression() as any);    
 }
 
 function handleNameofFull(callExpr: NameofCallExpression) {
