@@ -22,7 +22,7 @@
   "author": "David Sherret",
   "license": "MIT",
   "dependencies": {
-    "@ts-nameof/transforms-babel-yogoort": "^4.2.1"
+    "@ts-nameof/transforms-babel-yogoort": "https://github.com/Yogoort/ts-nameof/tarball/transforms-babel"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
