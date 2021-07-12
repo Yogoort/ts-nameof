@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@ts-nameof/common": "^4.2.1",
-    "@ts-nameof/transforms-common": "^4.2.1"
+    "@ts-nameof/transforms-common-yogoort": "https://github.com/Yogoort/ts-nameof/tarball/transforms-common"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
