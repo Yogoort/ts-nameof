@@ -1,8 +1,0 @@
-tsconfig.json
-tsconfig.tsbuildinfo
-src
-dist/tests
-.mocharc.yml
-*.log
-*.js.map
-.rush

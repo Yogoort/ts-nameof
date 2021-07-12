@@ -11,6 +11,7 @@
     "packages/transforms-babel/src/tests/pluginTests.ts": "0807c6abe31567d62ded8d06cc4a7726ca009f29",
     "packages/transforms-babel/src/transform.ts": "ff3db3dc68c6157e3d2104b86f669ec0221ad85d",
     "packages/transforms-babel/tsconfig.json": "33994266303b11de84ad7d232fb6f4b6af7ba0e8",
+    "packages/transforms-babel/package-lock.json": "eef888ff1e56b920271db38b7ea2f56d28fa5097",
     "packages/transforms-babel/.rush/temp/shrinkwrap-deps.json": "335b7f26d3990c6e2ef013c7513f4808238e6b25"
   },
   "arguments": "tsc --b "
