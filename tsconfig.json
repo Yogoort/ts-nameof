@@ -3,7 +3,8 @@
     "composite": true,
     "declaration": true,
     "rootDir": "./src",
-    "outDir": "./dist"
+    "outDir": "./dist",    
+    "types": ["node"]
   },
   "extends": "../../tsconfig.common.json",
   "include": ["./src"],

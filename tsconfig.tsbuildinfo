@@ -1,137 +1,137 @@
 {
   "program": {
     "fileInfos": {
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es5.d.ts": {
+      "./node_modules/typescript/lib/lib.es5.d.ts": {
         "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
         "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
         "affectsGlobalScope": false
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2016.d.ts": {
+      "./node_modules/typescript/lib/lib.es2016.d.ts": {
         "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
         "affectsGlobalScope": false
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.d.ts": {
+      "./node_modules/typescript/lib/lib.es2017.d.ts": {
         "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
         "affectsGlobalScope": false
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.d.ts": {
+      "./node_modules/typescript/lib/lib.es2018.d.ts": {
         "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
         "affectsGlobalScope": false
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts": {
         "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
         "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts": {
         "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
         "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
         "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts": {
         "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
         "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
         "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
         "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
         "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
         "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
         "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
         "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
         "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+      "./node_modules/typescript/lib/lib.es2017.object.d.ts": {
         "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
         "version": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
         "signature": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+      "./node_modules/typescript/lib/lib.es2017.string.d.ts": {
         "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+      "./node_modules/typescript/lib/lib.es2017.intl.d.ts": {
         "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
         "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+      "./node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
         "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+      "./node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
         "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+      "./node_modules/typescript/lib/lib.es2018.intl.d.ts": {
         "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+      "./node_modules/typescript/lib/lib.es2018.promise.d.ts": {
         "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+      "./node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
         "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+      "./node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
         "version": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
         "signature": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
         "affectsGlobalScope": true
       },
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+      "./node_modules/typescript/lib/lib.esnext.intl.d.ts": {
         "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
         "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
         "affectsGlobalScope": true
@@ -146,12 +146,12 @@
         "signature": "0f1ce890e8526f925e8955bf66954c4a57f6fb4f5204bafe6d8d43d64369506c",
         "affectsGlobalScope": false
       },
-      "../common/dist/errors.d.ts": {
+      "./node_modules/@ts-nameof/common/dist/errors.d.ts": {
         "version": "c055333bbfc9adfce23c3de9991ba617874f62045df71454a69d9b5065faa625",
         "signature": "c055333bbfc9adfce23c3de9991ba617874f62045df71454a69d9b5065faa625",
         "affectsGlobalScope": false
       },
-      "../common/dist/index.d.ts": {
+      "./node_modules/@ts-nameof/common/dist/index.d.ts": {
         "version": "ccc397f973266ed83c6016b2c34b30b4a4e685d8f0c299579ab1b66fd8ce2a2c",
         "signature": "ccc397f973266ed83c6016b2c34b30b4a4e685d8f0c299579ab1b66fd8ce2a2c",
         "affectsGlobalScope": false
@@ -186,22 +186,22 @@
         "signature": "71c56bdaa82d7ce75a72d3c06c04fe10becec09bd9c4ef21776a2a055d3f428e",
         "affectsGlobalScope": false
       },
-      "../transforms-common/dist/nodes.d.ts": {
+      "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts": {
         "version": "d838de1d727e0fe611fa241b7ddb15f52a72ad87e39126e4ff4c0441d1b8475e",
         "signature": "d838de1d727e0fe611fa241b7ddb15f52a72ad87e39126e4ff4c0441d1b8475e",
         "affectsGlobalScope": false
       },
-      "../transforms-common/dist/nodefactories.d.ts": {
+      "./node_modules/@ts-nameof/transforms-common/dist/nodefactories.d.ts": {
         "version": "5e0b9c2b76a1c6b240e49a4f585bf0fc5dfea3526c3ff279fcab648fbd99daef",
         "signature": "5e0b9c2b76a1c6b240e49a4f585bf0fc5dfea3526c3ff279fcab648fbd99daef",
         "affectsGlobalScope": false
       },
-      "../transforms-common/dist/transformcallexpression.d.ts": {
+      "./node_modules/@ts-nameof/transforms-common/dist/transformcallexpression.d.ts": {
         "version": "a54964cb676236a12adbb9ce8dc77fcbb225ed853300a218ba43cf3b12fac20d",
         "signature": "a54964cb676236a12adbb9ce8dc77fcbb225ed853300a218ba43cf3b12fac20d",
         "affectsGlobalScope": false
       },
-      "../transforms-common/dist/index.d.ts": {
+      "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts": {
         "version": "bd6d185ba688e7cc9c9bd66b7bfae867e72afa3988b7681134ecbe4ab0f36235",
         "signature": "bd6d185ba688e7cc9c9bd66b7bfae867e72afa3988b7681134ecbe4ab0f36235",
         "affectsGlobalScope": false
@@ -221,12 +221,12 @@
         "signature": "1184ca930130e2d4dc7db999e1adb2b42eac5ec0fce8a7aa7b2cde5714ad6417",
         "affectsGlobalScope": false
       },
-      "../tests-common/dist/runcommontests.d.ts": {
+      "./node_modules/@ts-nameof/tests-common/dist/runcommontests.d.ts": {
         "version": "ff82aa00eb231bbe52bf50e7ba9a18f3be69e518f109868016480234692e532f",
         "signature": "ff82aa00eb231bbe52bf50e7ba9a18f3be69e518f109868016480234692e532f",
         "affectsGlobalScope": false
       },
-      "../tests-common/dist/index.d.ts": {
+      "./node_modules/@ts-nameof/tests-common/dist/index.d.ts": {
         "version": "676688b5df58c5c626a36957d14da0b83968c22ed5351fa6689dbed968ad6a3d",
         "signature": "676688b5df58c5c626a36957d14da0b83968c22ed5351fa6689dbed968ad6a3d",
         "affectsGlobalScope": false
@@ -484,17 +484,31 @@
       "composite": true,
       "rootDir": "./src",
       "outDir": "./dist",
+      "types": [
+        "node"
+      ],
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {
-      "../common/dist/index.d.ts": [
-        "../common/dist/errors.d.ts"
-      ],
-      "../tests-common/dist/index.d.ts": [
-        "../tests-common/dist/runcommontests.d.ts"
-      ],
       "./node_modules/@babel/parser/typings/babel-parser.d.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "./node_modules/@ts-nameof/common/dist/index.d.ts": [
+        "./node_modules/@ts-nameof/common/dist/errors.d.ts"
+      ],
+      "./node_modules/@ts-nameof/tests-common/dist/index.d.ts": [
+        "./node_modules/@ts-nameof/tests-common/dist/runcommontests.d.ts"
+      ],
+      "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts": [
+        "./node_modules/@ts-nameof/transforms-common/dist/nodefactories.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/transformcallexpression.d.ts"
+      ],
+      "./node_modules/@ts-nameof/transforms-common/dist/nodefactories.d.ts": [
+        "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts"
+      ],
+      "./node_modules/@ts-nameof/transforms-common/dist/transformcallexpression.d.ts": [
+        "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts"
       ],
       "./node_modules/@types/babel__core/index.d.ts": [
         "./node_modules/@babel/parser/typings/babel-parser.d.ts",
@@ -676,60 +690,60 @@
         "./node_modules/@types/node/stream.d.ts"
       ],
       "./src/helpers.ts": [
-        "../common/dist/index.d.ts",
-        "./node_modules/@babel/types/lib/index.d.ts"
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@ts-nameof/common/dist/index.d.ts"
       ],
       "./src/index.ts": [
-        "../common/dist/index.d.ts",
-        "../transforms-common/dist/index.d.ts",
         "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@ts-nameof/common/dist/index.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts",
         "./node_modules/@types/babel__core/index.d.ts",
         "./node_modules/@types/babel__traverse/ts4.1/index.d.ts",
         "./src/parse.ts",
         "./src/transform.ts"
       ],
       "./src/parse.ts": [
-        "../common/dist/index.d.ts",
-        "../transforms-common/dist/index.d.ts",
         "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@ts-nameof/common/dist/index.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts",
         "./node_modules/@types/babel__traverse/ts4.1/index.d.ts",
         "./src/helpers.ts"
       ],
       "./src/tests/plugintests.ts": [
-        "../tests-common/dist/index.d.ts",
+        "./node_modules/@ts-nameof/tests-common/dist/index.d.ts",
         "./node_modules/@types/babel__core/index.d.ts",
         "./node_modules/@types/node/path.d.ts",
         "./src/index.ts"
       ],
       "./src/transform.ts": [
-        "../common/dist/index.d.ts",
-        "../transforms-common/dist/index.d.ts",
-        "./node_modules/@babel/types/lib/index.d.ts"
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@ts-nameof/common/dist/index.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts"
       ],
       "./src/visitsourcefilecontext.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
-      ],
-      "../transforms-common/dist/index.d.ts": [
-        "../transforms-common/dist/nodefactories.d.ts",
-        "../transforms-common/dist/nodes.d.ts",
-        "../transforms-common/dist/transformcallexpression.d.ts"
-      ],
-      "../transforms-common/dist/nodefactories.d.ts": [
-        "../transforms-common/dist/nodes.d.ts"
-      ],
-      "../transforms-common/dist/transformcallexpression.d.ts": [
-        "../transforms-common/dist/nodes.d.ts"
       ]
     },
     "exportedModulesMap": {
-      "../common/dist/index.d.ts": [
-        "../common/dist/errors.d.ts"
-      ],
-      "../tests-common/dist/index.d.ts": [
-        "../tests-common/dist/runcommontests.d.ts"
-      ],
       "./node_modules/@babel/parser/typings/babel-parser.d.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "./node_modules/@ts-nameof/common/dist/index.d.ts": [
+        "./node_modules/@ts-nameof/common/dist/errors.d.ts"
+      ],
+      "./node_modules/@ts-nameof/tests-common/dist/index.d.ts": [
+        "./node_modules/@ts-nameof/tests-common/dist/runcommontests.d.ts"
+      ],
+      "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts": [
+        "./node_modules/@ts-nameof/transforms-common/dist/nodefactories.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/transformcallexpression.d.ts"
+      ],
+      "./node_modules/@ts-nameof/transforms-common/dist/nodefactories.d.ts": [
+        "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts"
+      ],
+      "./node_modules/@ts-nameof/transforms-common/dist/transformcallexpression.d.ts": [
+        "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts"
       ],
       "./node_modules/@types/babel__core/index.d.ts": [
         "./node_modules/@babel/parser/typings/babel-parser.d.ts",
@@ -920,36 +934,29 @@
         "./src/parse.ts"
       ],
       "./src/parse.ts": [
-        "../transforms-common/dist/index.d.ts",
         "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts",
         "./node_modules/@types/babel__traverse/ts4.1/index.d.ts"
       ],
       "./src/transform.ts": [
-        "../transforms-common/dist/index.d.ts",
-        "./node_modules/@babel/types/lib/index.d.ts"
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts"
       ],
       "./src/visitsourcefilecontext.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
-      ],
-      "../transforms-common/dist/index.d.ts": [
-        "../transforms-common/dist/nodefactories.d.ts",
-        "../transforms-common/dist/nodes.d.ts",
-        "../transforms-common/dist/transformcallexpression.d.ts"
-      ],
-      "../transforms-common/dist/nodefactories.d.ts": [
-        "../transforms-common/dist/nodes.d.ts"
-      ],
-      "../transforms-common/dist/transformcallexpression.d.ts": [
-        "../transforms-common/dist/nodes.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
-      "../common/dist/errors.d.ts",
-      "../common/dist/index.d.ts",
-      "../tests-common/dist/index.d.ts",
-      "../tests-common/dist/runcommontests.d.ts",
       "./node_modules/@babel/parser/typings/babel-parser.d.ts",
       "./node_modules/@babel/types/lib/index.d.ts",
+      "./node_modules/@ts-nameof/common/dist/errors.d.ts",
+      "./node_modules/@ts-nameof/common/dist/index.d.ts",
+      "./node_modules/@ts-nameof/tests-common/dist/index.d.ts",
+      "./node_modules/@ts-nameof/tests-common/dist/runcommontests.d.ts",
+      "./node_modules/@ts-nameof/transforms-common/dist/index.d.ts",
+      "./node_modules/@ts-nameof/transforms-common/dist/nodefactories.d.ts",
+      "./node_modules/@ts-nameof/transforms-common/dist/nodes.d.ts",
+      "./node_modules/@ts-nameof/transforms-common/dist/transformcallexpression.d.ts",
       "./node_modules/@types/babel__core/index.d.ts",
       "./node_modules/@types/babel__generator/index.d.ts",
       "./node_modules/@types/babel__template/index.d.ts",
@@ -1000,43 +1007,39 @@
       "./node_modules/@types/node/wasi.d.ts",
       "./node_modules/@types/node/worker_threads.d.ts",
       "./node_modules/@types/node/zlib.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "./node_modules/typescript/lib/lib.es2016.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "./node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "./node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "./node_modules/typescript/lib/lib.es2018.d.ts",
+      "./node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "./node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "./node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "./node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "./node_modules/typescript/lib/lib.es5.d.ts",
+      "./node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "./src/helpers.ts",
       "./src/index.ts",
       "./src/parse.ts",
       "./src/tests/plugintests.ts",
       "./src/transform.ts",
-      "./src/visitsourcefilecontext.ts",
-      "../transforms-common/dist/index.d.ts",
-      "../transforms-common/dist/nodefactories.d.ts",
-      "../transforms-common/dist/nodes.d.ts",
-      "../transforms-common/dist/transformcallexpression.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.collection.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.core.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.generator.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.promise.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2016.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.intl.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.object.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.string.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.intl.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.promise.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es2020.bigint.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.es5.d.ts",
-      "../ts-nameof.macro/node_modules/typescript/lib/lib.esnext.intl.d.ts"
+      "./src/visitsourcefilecontext.ts"
     ]
   },
   "version": "3.9.10"
