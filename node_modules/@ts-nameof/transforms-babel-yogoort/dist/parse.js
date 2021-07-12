@@ -21,7 +21,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.parse = void 0;
 var common_1 = require("@ts-nameof/common");
-var common = __importStar(require("@ts-nameof/transforms-common"));
+var common = __importStar(require("@ts-nameof/transforms-common-yogoort"));
 var helpers_1 = require("./helpers");
 function parse(t, path, options) {
     if (options === void 0) { options = {}; }

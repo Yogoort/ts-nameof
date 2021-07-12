@@ -1,6 +1,6 @@
 import * as babelTypes from "@babel/types";
 import { throwError } from "@ts-nameof/common";
-import * as common from "@ts-nameof/transforms-common";
+import * as common from "@ts-nameof/transforms-common-yogoort";
 
 /**
  * Transforms a common node to a Babel node.

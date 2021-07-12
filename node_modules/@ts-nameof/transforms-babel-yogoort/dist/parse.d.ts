@@ -1,6 +1,6 @@
 import * as babelTypes from "@babel/types";
 import { NodePath } from "@babel/traverse";
-import * as common from "@ts-nameof/transforms-common";
+import * as common from "@ts-nameof/transforms-common-yogoort";
 export interface ParseOptions {
     traverseChildren?: () => void;
     nameofIdentifierName?: string;

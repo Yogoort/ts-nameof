@@ -2,7 +2,7 @@ import * as babelTypes from "@babel/types";
 import * as babel from "@babel/core";
 import { NodePath, Node } from "@babel/traverse";
 import { throwErrorForSourceFile } from "@ts-nameof/common";
-import { transformCallExpression } from "@ts-nameof/transforms-common";
+import { transformCallExpression } from "@ts-nameof/transforms-common-yogoort";
 import { parse, ParseOptions } from "./parse";
 import { transform } from "./transform";
 

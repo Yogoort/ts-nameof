@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.transformNode = exports.plugin = void 0;
 var common_1 = require("@ts-nameof/common");
-var transforms_common_1 = require("@ts-nameof/transforms-common");
+var transforms_common_yogoort_1 = require("@ts-nameof/transforms-common-yogoort");
 var parse_1 = require("./parse");
 var transform_1 = require("./transform");
 function plugin(_a) {
@@ -28,7 +28,7 @@ function transformNode(t, path, options) {
     var parseResult = parse_1.parse(t, path, options);
     if (parseResult == null)
         return;
-    var transformResult = transform_1.transform(t, transforms_common_1.transformCallExpression(parseResult));
+    var transformResult = transform_1.transform(t, transforms_common_yogoort_1.transformCallExpression(parseResult));
     path.replaceWith(transformResult);
 }
 exports.transformNode = transformNode;

@@ -3,7 +3,7 @@ import { Node, CallExpression, MemberExpression, Expression, TemplateLiteral, Ar
     NumericLiteral, StringLiteral, UnaryExpression, TSQualifiedName, TSTypeParameterInstantiation, TSImportType, V8IntrinsicIdentifier } from "@babel/types";
 import { NodePath } from "@babel/traverse";
 import { throwError } from "@ts-nameof/common";
-import * as common from "@ts-nameof/transforms-common";
+import * as common from "@ts-nameof/transforms-common-yogoort";
 import { isNegativeNumericLiteral, getNegativeNumericLiteralValue, getReturnStatementArgumentFromBlock } from "./helpers";
 
 export interface ParseOptions {
