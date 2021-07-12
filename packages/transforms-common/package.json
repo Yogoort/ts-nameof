@@ -1,5 +1,5 @@
 {
-  "name": "@ts-nameof/transforms-common",
+  "name": "@ts-nameof/transforms-common-yogoort",
   "version": "4.2.1",
   "description": "ts-nameof - Common code for transforms.",
   "main": "./dist/index.js",

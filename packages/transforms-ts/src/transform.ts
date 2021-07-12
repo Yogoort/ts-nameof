@@ -1,6 +1,6 @@
 import * as ts from "typescript";
 import { throwError } from "@ts-nameof/common";
-import * as common from "@ts-nameof/transforms-common";
+import * as common from "@ts-nameof/transforms-common-yogoort";
 import { VisitSourceFileContext } from "./VisitSourceFileContext";
 
 /**

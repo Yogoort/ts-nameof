@@ -31,7 +31,7 @@
       "reviewCategory": "production"
     },
     {
-      "packageName": "@ts-nameof/transforms-common",
+      "packageName": "@ts-nameof/transforms-common-yogoort",
       "projectFolder": "packages/transforms-common",
       "reviewCategory": "production"
     },

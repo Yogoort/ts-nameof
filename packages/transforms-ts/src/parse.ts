@@ -1,7 +1,7 @@
 import * as ts from "typescript";
 import { throwError, assertNever } from "@ts-nameof/common";
-import * as common from "@ts-nameof/transforms-common";
-import { InterpolateNode, createInterpolateNode } from "@ts-nameof/transforms-common";
+import * as common from "@ts-nameof/transforms-common-yogoort";
+import { InterpolateNode, createInterpolateNode } from "@ts-nameof/transforms-common-yogoort";
 import { isNegativeNumericLiteral, getNegativeNumericLiteralValue, getReturnStatementExpressionFromBlock, getNodeText } from "./helpers";
 import { VisitSourceFileContext } from "./VisitSourceFileContext";
 
