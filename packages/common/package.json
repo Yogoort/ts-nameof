@@ -12,8 +12,7 @@
     "clean": "rimraf dist && tsc --b --clean",
     "build": "tsc --b"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "typescript": "^3.9.7",
     "rimraf": "^3.0.2"

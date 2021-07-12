@@ -11,6 +11,7 @@ dependencies:
   '@rush-temp/transforms-ts': 'file:projects/transforms-ts.tgz'
   '@rush-temp/ts-nameof': 'file:projects/ts-nameof.tgz'
   '@rush-temp/ts-nameof.macro': 'file:projects/ts-nameof.macro.tgz'
+  '@ts-nameof/transforms-babel-yogoort': github.com/Yogoort/ts-nameof/tarball/transforms-babel
   '@types/babel__core': 7.1.9
   '@types/babel__generator': 7.6.1
   '@types/babel__template': 7.0.2
@@ -795,6 +796,16 @@ packages:
     dev: false
     resolution:
       integrity: sha512-0qasHorGK8VfUK20oECpIfmu/B6cwGSNTj2HoNsIKeDE1kB/uCk5jWFHkgBuoZu/3i3ysLOwO9QsFJaRAH65UA==
+  /@ts-nameof/common/4.2.1:
+    dev: false
+    resolution:
+      integrity: sha512-bWwYOFTTd6Nq7RUqJalIii1su3OyR+N1W0smp5PzHGUVycHuJ7MRiyCQrWgMt1lbbp3GY6cvCttm7Zo5E7A1xQ==
+  /@ts-nameof/transforms-common/4.2.1:
+    dependencies:
+      '@ts-nameof/common': 4.2.1
+    dev: false
+    resolution:
+      integrity: sha512-mg6nkkHqNlKU1B15pEtiikSKadJSOxFFWpi7tEVB7Yhjx0PhoTcSe7oxK0fXHZGeoTGF2SMZjmCsGnbtfcgk6w==
   /@types/babel__core/7.1.15:
     dependencies:
       '@babel/parser': 7.14.7
@@ -3510,6 +3521,7 @@ packages:
     dependencies:
       '@babel/core': /@babel/core/7.14.6/@babel!core@7.14.6
       '@babel/preset-typescript': /@babel/preset-typescript/7.14.5/@babel!core@7.14.6
+      '@ts-nameof/transforms-babel-yogoort': github.com/Yogoort/ts-nameof/tarball/transforms-babel
       '@types/babel__core': 7.1.15
       '@types/babel__generator': 7.6.3
       '@types/babel__template': 7.4.1
@@ -3522,7 +3534,7 @@ packages:
     dev: false
     name: '@rush-temp/babel-plugin-ts-nameof-yogoort'
     resolution:
-      integrity: sha512-m2/9CtHYu+AxIJk2Nl3r0JGIrz+Yiu7ddJ0m6ziBKBGx30+qJoAneGgYRFZi9scQsWpUSviO/JeV5mPyTm/DsQ==
+      integrity: sha512-o6iSqP2/TUvfjz+BqOjuNuzI0ZlfJf7G7Cuie53DpNGvA2WWCKxKYuIY3LrTETH4sc7Q8Cy1EM0raaDLigTdyw==
       tarball: 'file:projects/babel-plugin-ts-nameof-yogoort.tgz'
     version: 0.0.0
   'file:projects/common.tgz':
@@ -3616,6 +3628,7 @@ packages:
     dependencies:
       '@babel/core': 7.10.5
       '@babel/preset-typescript': /@babel/preset-typescript/7.10.4/@babel!core@7.10.5
+      '@ts-nameof/transforms-babel-yogoort': github.com/Yogoort/ts-nameof/tarball/transforms-babel
       '@types/babel__core': 7.1.9
       '@types/babel__generator': 7.6.1
       '@types/babel__template': 7.0.2
@@ -3634,7 +3647,7 @@ packages:
     dev: false
     name: '@rush-temp/ts-nameof.macro'
     resolution:
-      integrity: sha512-ol94kaRT47WVLXdSRqjNwrlI8civhD8HuXpDik9TITFqUkXXpIocDg3bf8JZQS8NSbEBfub/UUeoX6AJmEqN7w==
+      integrity: sha512-Jy4eRHT2tVoUNjZh0jFKirVWmG+tx+3lpslUGKfdAvRq08se698h2u0W3VUUJX8l7FB+Icn0Z8AaUWn5r/9rZQ==
       tarball: 'file:projects/ts-nameof.macro.tgz'
     version: 0.0.0
   'file:projects/ts-nameof.tgz':
@@ -3659,6 +3672,15 @@ packages:
       integrity: sha512-btB+EtSMmoaCMux3zg9wGKe6Q9xxK6sTcITt+Z1PNwPg+oho5bnn0Nm0pRdglogxELVlcbLvZ+0FVFsnZxdPfw==
       tarball: 'file:projects/ts-nameof.tgz'
     version: 0.0.0
+  github.com/Yogoort/ts-nameof/tarball/transforms-babel:
+    dependencies:
+      '@ts-nameof/common': 4.2.1
+      '@ts-nameof/transforms-common': 4.2.1
+    dev: false
+    name: '@ts-nameof/transforms-babel-yogoort'
+    resolution:
+      tarball: 'https://github.com/Yogoort/ts-nameof/tarball/transforms-babel'
+    version: 4.2.1
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
@@ -3675,6 +3697,7 @@ specifiers:
   '@rush-temp/transforms-ts': 'file:./projects/transforms-ts.tgz'
   '@rush-temp/ts-nameof': 'file:./projects/ts-nameof.tgz'
   '@rush-temp/ts-nameof.macro': 'file:./projects/ts-nameof.macro.tgz'
+  '@ts-nameof/transforms-babel-yogoort': 'https://github.com/Yogoort/ts-nameof/tarball/transforms-babel'
   '@types/babel__core': ^7.1.9
   '@types/babel__generator': ^7.6.1
   '@types/babel__template': ^7.0.2
